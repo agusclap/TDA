@@ -1,3 +1,5 @@
+/*Falta enunciado*/
+
 #include <iostream>
 using namespace std;
 
