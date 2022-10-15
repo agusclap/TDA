@@ -176,7 +176,7 @@ void ejes(struct node *front){
     struct node *temp;
     struct node *aux;
     cout<<"Valor ordenados por ejes:"<<endl;
-
+        aux = front;
         temp =front;
         while(temp!=NULL){
         if(temp->v.cantidad<temp->link->v.cantidad){
