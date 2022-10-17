@@ -191,5 +191,4 @@ void ejes(struct node *front){
         cout<<"Pat: "<<temp->v.patente<<"\tMarca: "<<temp->v.marca<<"\tColor: "<<temp->v.color<<"\tEjes: "<<temp->v.cantidad<<"\tPrecio: "<<temp->v.precio<<"\tDirec: "<<temp->v.direccion<<endl;
         temp = temp->link;
     }
-
 }

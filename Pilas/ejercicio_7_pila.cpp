@@ -33,7 +33,7 @@ void direcc(struct node *stackptr);
 void ejes(struct node *stackptr);
 
 int main(){
-    struct node *stackptr;
+    struct node *stackptr=NULL;
     struct registro r;
     char seguir, opcion = ' ';
 
